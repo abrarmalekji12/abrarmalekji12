@@ -1,0 +1,4 @@
+title: ScreenPad
+description: This is a dynamic privacy policy page.
+name: Simple Salon  # This is the dynamic variable
+baseurl: /screenpad
